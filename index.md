@@ -1,4 +1,4 @@
-Welcome to the Troll Games Inc. Github Website! 
+# Welcome to the Troll Games Inc. Github Website! 
 
 Tetris: [Click](https://trollgamesinc.github.io/Tetris)
 
