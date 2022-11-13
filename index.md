@@ -1,7 +1,9 @@
-ClickerJs (Not Done Yet): [Click](https://codingclubmeme.github.io/ClickerJs-1)
+Welcome to the Troll Games Inc. Github Website! 
 
-CrappyBird: [Click](https://codingclubmeme.github.io/CrappyBird)
+Tetris: [Click](https://trollgamesinc.github.io/Tetris)
 
-Slope Game: [Click](https://codingclubmeme.github.io/Slope-Game)
+CrappyBird: [Click](https://trollgamesinc.github.io/CrappyBird)
 
-Cookie Clicker: [Click](https://codingclubmeme.github.io/CookieClicker/)
+Slope Game: [Click](https://trollgamesinc.github.io/Slope-Game)
+
+Cookie Clicker: [Click](https://trollgamesinc.github.io/CookieClicker/)
