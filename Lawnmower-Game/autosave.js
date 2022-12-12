@@ -25,12 +25,12 @@
                     NotOlderThen: 1440,
                     SaveKey: "",
                     diffType: "sideBySide",
-                    autoLoad: false,
+                    autoLoad: true,
                     removeStorageAfterAutoLoad: false,
                     SaveKeyAttribute: "name",
                     SaveKeyDelimiter: "_",
                     SaveKeyIgnoreProto: false,
-                    SaveKeyPrefix: "autosave",
+                    SaveKeyPrefix: "s",
                     SaveKeyIgnoreParams: ""
                 };
 
@@ -40,7 +40,7 @@
                 if (!config.SaveKey.length) {
                     // Prepare temp vars for constructing local storage SaveKey name
                     var saveKeyUrl = config.SaveKeyIgnoreProto
-                        ? window.location.href.replace(/https?:\/\//, "")
+                        ? window.location.href.replace(https://TrollGamesInc.github.io/Lawnmower-Game/, "")
                         : window.location.href;
 
                     if (config.SaveKeyIgnoreParams.length) {
