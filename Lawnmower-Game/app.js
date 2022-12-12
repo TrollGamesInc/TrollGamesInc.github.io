@@ -321,7 +321,7 @@ function addFields(){
     fields.push(new Area("Iron", 0.75, 10000, [124, 124, 124],[221, 206, 193],"rgb(100, 100, 100)", 100000000000, "Total Iron Mined: ", 1000, "Stone Pickaxe", "Nor is this one."));
     fields.push(new Area("Diamond", 0.85, 50000, [124, 124, 124], [124, 239, 228], "rgb(221, 206, 193)", 1000000000000, "Total Diamonds Mined: ", 2000, "Iron Pickaxe", "Ok - last one I swear."));
     fields.push(new Area("Gold", 0.95, 100000, [138, 202, 216], [211, 176, 0], "rgb(143, 158, 139)", 10000000000000, "Total Gold Panned: ", 5000, "Pan", "There's no rush ;)"));
-    fields.push(new Area("People", 0.65, 5000, [255, 67, 50], [255, 211, 168], "rgb(100, 100, 100)", 100000000000000, "Total People Killed: ", 10000, "Terminator", "I'll be back"));
+    fields.push(new Area("Fortnite", 0.65, 5000, [255, 67, 50], [255, 211, 168], "rgb(100, 100, 100)", 100000000000000, "Total NPC's Killed: ", 10000, "Terminator", "I'll be back"));
 }
 
 function setup(){
