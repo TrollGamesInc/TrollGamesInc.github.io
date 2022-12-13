@@ -5,7 +5,13 @@
         <script type="text/javascript" src="app.js"></script>
         <link rel="stylesheet" href="stylesheet.css" type="text/css" />
         <script type="text/javascript" src="autosave.js"></script>
-        
+     
+        $(document).ready(function(){
+                AutoSave.start();
+            })
+
+            $(window).unload(function(){
+                AutoSave.stop();
         
         
     </head>
