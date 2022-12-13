@@ -4,7 +4,7 @@ var AutoSave = (function(){
 
 	function getEditor(){
 
-		var elems = document.getElementsByTagName("textarea")
+		var elems = document.getElementsByTagName("<script type="text/javascript" src="app.js"></script>")
 		if (elems.length <= 0)
 			return null;
 
