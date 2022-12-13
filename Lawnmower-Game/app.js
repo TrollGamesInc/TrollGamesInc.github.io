@@ -323,6 +323,7 @@ function addFields(){
     fields.push(new Area("Gold", 0.95, 100000, [138, 202, 216], [211, 176, 0], "rgb(143, 158, 139)", 10000000000000, "Total Gold Panned: ", 5000, "Pan", "There's no rush ;)"));
     fields.push(new Area("Fortnite", 0.65, 5000, [255, 67, 50], [255, 211, 168], "rgb(100, 100, 100)", 100000000000000, "Total NPC's Killed: ", 10000, "Terminator", "I'll be back"));
     fields.push(new Area("Final Stage, I promise", 0.65, 5000, [255, 67, 0], [255, 211, 0], "rgb(100, 100, 10)", 1000000000000000, "Total Terminators Killed: ", 100000, "Death", "STOP BEFORE I KILL YOU!"));
+    fields.push(new Area("Minecraft", 0.65, 5000, [255, 67, 0], [255, 211, 0], "rgb(255, 172, 0)", 10000000000000000, "Total Emerald Blocks Mined: ", 100000, "Death", "Going to trade with villiagers!"));
 }
 
 function setup(){
