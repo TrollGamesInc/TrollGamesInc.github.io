@@ -16,7 +16,7 @@ var AutoSave = (function(){
 
 		var editor = getEditor(); 
                 if (editor) {
-		    localStorage.setItem("AUTOSAVE_" + document.location, editor.value )
+		    localStorage.setItem("AUTOSAVE_" + app.js, editor.value )
                 }
 
 	}
