@@ -1,8 +1,9 @@
 # Welcome to the Troll Games Inc. Github Website! 
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6165031527690198"
+<html>
+     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6165031527690198"
      crossorigin="anonymous"></script>
-     
+     </html>
 Tetris: [Click](https://trollgamesinc.github.io/Tetris)
 
 CrappyBird: [Click](https://trollgamesinc.github.io/CrappyBird)
