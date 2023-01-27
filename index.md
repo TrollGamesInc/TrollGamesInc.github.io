@@ -1,7 +1,5 @@
 # Welcome to the Troll Games Inc. Github Website! 
 
-<html>
- 
  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1674697093297251"
      crossorigin="anonymous"></script>
 <!-- Ads 1 -->
@@ -14,8 +12,6 @@
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
- 
-     </html>
      
 Tetris: [Click](https://trollgamesinc.github.io/Tetris/)
 
